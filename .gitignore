@@ -1,0 +1,15 @@
+# Archives & Video Sources
+*.zip
+*.mp4
+
+# Raw extraction folders (converted to assets/frames/)
+clip1frame/
+clip2farme/
+clip3frame/
+flowclipframe/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
